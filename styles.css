@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    font-size: x-large;
+}
+h1 {
+    color: white;
+    font-family: Comic Sans MS, sans-serif;
+}
+p {
+    color: white;
+    font-family: Comic Sans MS, sans-serif;
+}
+input {
+    padding: 10px;
+    padding-right: 40px;
+    border-radius: 5px;
+}
+#errorsandshit {
+    font-size: xx-large;
+}
